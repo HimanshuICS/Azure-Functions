@@ -1,4 +1,4 @@
-const { app } = require('@azure/functions');
+const { app } = require('@azure/functions')    ;
 
 app.http('SQLHandler', {
     methods: ['GET', 'POST'],
