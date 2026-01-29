@@ -10,5 +10,6 @@ app.http('SQLHandler', {
 
         return { body: `Hello, ${name}!` };
         Hello world
+        Hello world local;
     }
 });
