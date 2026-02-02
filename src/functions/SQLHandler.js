@@ -10,6 +10,6 @@ app.http('SQLHandler', {
 
         return { body: `Hello, ${name}!` };
         #Hello world pull request 5.
-        #Hello world pull request 5 created again.
+        #Hello world pull request 5 created
     }
 });
