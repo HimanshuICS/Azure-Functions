@@ -11,5 +11,6 @@ app.http('SQLHandler', {
         return { body: `Hello, ${name}!` };
         #Hello world pull request 5.
         #Hello world pull request 5 created
+        #prepare for the rebase from the master.
     }
 });
