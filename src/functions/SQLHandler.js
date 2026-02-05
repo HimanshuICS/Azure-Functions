@@ -16,5 +16,4 @@ app.http('SQLHandler', {
             #master rebasing and checking graph
     }
     #Shelving 1
-    #Draft request for the shelving
 });
