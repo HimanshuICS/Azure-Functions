@@ -9,6 +9,10 @@ app.http('SQLHandler', {
         const name = request.query.get('name') || await request.text() || 'world';
 
         return { body: `Hello, ${name}!` };
-        Hello world
+        #Hello world pull request 5.
+        #Hello world pull request 5 created
+        #prepare for the rebase from the master.
+
+            #master rebasing and checking graph
     }
 });
